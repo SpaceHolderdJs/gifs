@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build"
   },
-  "homepage": "https://spaceholderdjs.github.io/gifs",
+  "homepage": "https://SpaceHolderdJs.github.io/gifs",
   "eslintConfig": {
     "extends": [
       "react-app",
